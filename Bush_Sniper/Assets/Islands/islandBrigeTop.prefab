@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 114487619001422970}
   - component: {fileID: 212861148880065662}
   m_Layer: 0
-  m_Name: IslandBridgeTop
+  m_Name: islandBrigeTop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
